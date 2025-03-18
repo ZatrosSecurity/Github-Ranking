@@ -52,7 +52,7 @@ table_of_contents = """
 * [TypeScript](#typeScript)
 * [Vim script](#vim-script)"""
 
-
+my_token = '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'
 class ProcessorGQL(object):
     """
     Github GraphQL API v4
